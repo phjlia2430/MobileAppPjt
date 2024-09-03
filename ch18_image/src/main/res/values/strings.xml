@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">펫커넥트</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="default_client_id">491499197548-8druv0rvm40jmjq80eniao4do6dfa12b.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notice">
+공공장소에서 주인 없이 떠도는 동물을 발견한 경우 관할 시군구청 또는 동물보호센터에 신고하시기 바랍니다.
+신고 동물은 구조·보호되며 소유자 반환을 위해 반환대상 동물공고를 하게 됩니다.
+소유자를 알 수 없는 동물을 신고하지 않고 알선·구매하는 경우, 포획하여 팔거나 판매하거나 죽일 목적으로 포획하는 경우에는 동물보호법 제10조제3항제1호·제3호·제4호를 위반하여 2년 이하 징역이나 2천만원 이하 벌금이 부과됩니다.
+소유자를 알 수 없는 동물을 신고하지 않고 포획하여 죽이는 경우 동물보호법 제10조제3항제2호를 위반하여 3년 이하 징역이나 3천만원 이하 벌금이 부과됩니다.</string>
+    <string name="notice2">
+1. 적합한 사료의 급여와 급수, 적당한 운동, 휴식 및 수면이 보장되도록 하겠습니다.
+2. 질병에 걸리거나 부상을 입은 경우 신속한 치료 등 필요한 조치를 하겠습니다.
+3. 합리적 이유 없이 고통을 주거나 상해를 입히지 않겠습니다.
+4. 입양한 동물을 상업적(식용, 번식, 판매 등)으로 이용하지 않겠습니다.
+5. 입양한 동물로 인해 발생하는 모든 사고에 대해 민형사상 책임을 지겠습니다.
+6. 입양한 동물을 유기하거나 파양하지 않겠습니다.
+7. 2개월 이상인 개는 내장형 방식으로 등록하겠습니다.
+8. 입양 후 지자체(동물보호센터) 사후관리에 협조하겠습니다.
+9. 입양한 동물의 복지를 위해 중성화 수술을 실시하겠습니다.</string>
+</resources>

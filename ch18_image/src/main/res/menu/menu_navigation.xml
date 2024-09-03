@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_php"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="회원친구 데이터"/>
+    <item
+        android:id = "@+id/item_board"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="리뷰 게시판"/>
+    <item
+        android:id="@+id/item_setting"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="안내"/>
+
+</menu>
